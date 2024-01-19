@@ -1,0 +1,10 @@
+{
+  "name": "daimao.nekomimi.open.terminal",
+  "displayName": "Open Terminal",
+  "version": "1.0.0",
+  "description": "Open Terminal in OSX",
+  "license": "MIT",
+  "author": {
+    "name": "\u306d\u3053\u307f\u307f\u3060\u3044\u307e\u304a\u3046"
+  }
+}

@@ -88,6 +88,12 @@
       },
       "url": "https://packages.unity.com"
     },
+    "daimao.nekomimi.open.terminal": {
+      "version": "file:OpenTerminal",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
