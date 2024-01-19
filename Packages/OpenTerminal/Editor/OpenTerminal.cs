@@ -11,7 +11,7 @@ namespace Nekomimi.Daimao.Editor
     {
         private static Process _process;
 
-        [MenuItem("Assets/Open Terminal")]
+        [MenuItem("Assets/Open Terminal", priority = 12)]
         private static void Open()
         {
             var path = AssetDatabase.GetAssetPath(Selection.activeInstanceID);
